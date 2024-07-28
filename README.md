@@ -1,1 +1,1 @@
-# Chess_App
+Download dlu file zip nya, lalu kalau sudah extract filenya. buka di editor kalian terserah menggunakan apa, jalankan program-nya di file app.py nya. lalu untuk client-nya jalankan dengan menggunakan browser dan masukkan http://127.0.0.1:5000/
